@@ -1,11 +1,13 @@
 # <p align="center"> :rocket: &nbsp; Starter NodeJS &nbsp; :rocket: </p>
 
+<p align="justify">
 O Starter NodeJS é um breve curso ofertado pela Rocketseat, durante o qual são apresentados alguns conceitos do NodeJS, Express e MongoDB. Para melhor entendimento dos conhecimentos apresentados, é desenvolvida uma API Rest, com todas as funcionalidaes CRUD e também paginação.
+</p>
 
 <br /><br />
 
 <div align="center">
-  <img src="" width="" />
+  <img src="https://www.luiztools.com.br/wp-content/uploads/2017/03/nodejs-logo.png" />
 </div>
 
 <hr>
