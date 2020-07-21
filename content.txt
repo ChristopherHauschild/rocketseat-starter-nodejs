@@ -1,0 +1,23 @@
+- NodeJS: ambiente de execução Javascript server-side.
+
+  -> permite utilização do JS no servidor (backend)
+  -> utiliza a engine V8 (entende JS) para tratar
+     requisições e respostas no servidor
+
+- APIRest
+
+  -> backend separado do frontend
+  -> uma única API para diferentes plataformas (client's)
+
+- MongoDB
+
+  -> banco de dados NoSQL
+
+- Insomnia
+  
+  -> configurar base_url:
+    - No Environment
+      - Manage Environments
+        - {
+            "base_url": "http:..."
+          }
